@@ -1,6 +1,3 @@
-# stungunframework
-Just a script that AI helped me make. It took some time to fix errors with the criteria I had asked for. If there are any errors, please let me know. I will most likely ask the AI to fix it, because I'm not the best at coding, just key-word reading. Also I haven't been able to actually test it.
-
 # **NOTE:**
 I don't have much knowledge on coding, so if you have an error to cite just tell me what's wrong with it and I'll work with the AI to fix it.
 Also, neither am I able to test it, long story, don't want to explain, so expect some features not working.
