@@ -10,13 +10,13 @@ Installation is simple, just go to your CFXDefaultFiveM folder (Mine's in txData
 
 # **WHAT IT CONTAINS (HOPEFULLY):**
 -Laser (cannot be toggled)
--Flashlight (cannot be toggled)
--ON/OFF Functionality using "X" (Triggers notification saying "Powered ON/OFF")
--2 Cartridge Limit, can be refilled using a command /refillcart inside of a vehicle (Any Vehicle)
--Prong Physics, for example, hitting someone with a prong and being able to tase them again after a wait (Triggers notification saying "Suspect Hit!")
--Following Prong Physics, it can only be removed by doing the following: Pressing "I" when close enough; Too far away from the suspect; Or reloaded; (When removing prong, give notification saying "Prong was removed!")
--Manual Reload (Need to press R)
--Reload Animation
--Removed Charge Bar and made it ammo
--When being tased, the suspect will see a screen distortion
--Realistic X26 Taser Shoot
+    -Flashlight (cannot be toggled)
+    -ON/OFF Functionality using "X" (Triggers notification saying "Powered ON/OFF")
+    -2 Cartridge Limit, can be refilled using a command /refillcart inside of a vehicle (Any Vehicle)
+    -Prong Physics, for example, hitting someone with a prong and being able to tase them again after a wait (Triggers notification saying "Suspect Hit!")
+    -Following Prong Physics, it can only be removed by doing the following: Pressing "I" when close enough; Too far away from the suspect; Or reloaded; (When removing prong, give notification saying "Prong was removed!")
+    -Manual Reload (Need to press R)
+    -Reload Animation
+    -Removed Charge Bar and made it ammo
+    -When being tased, the suspect will see a screen distortion
+    -Realistic X26 Taser Shoot
