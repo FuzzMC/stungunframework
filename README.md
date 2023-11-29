@@ -3,7 +3,7 @@ I don't have much knowledge on coding, so if you have an error to cite just tell
 Also, neither am I able to test it, long story, don't want to explain, so expect some features not working.
 
 # **INSTALLATION:**
-Installation is simple, just click "Code", "Install ZIP file", extract it, go to your CFXDefaultFiveM folder (Mine's in txData) and put "StunGunFramework-v___" in your resources folder. It doesn't matter if you organize it into another folder, as long as the folder is like this: [Folder Name].
+Installation is simple, just click "Code", "Download ZIP", extract it, go to your CFXDefaultFiveM folder (Mine's in txData) and put "StunGunFramework-v___" in your resources folder. It doesn't matter if you organize it into another folder, as long as the folder is like this: [Folder Name].
 
 # **WHAT IT CONTAINS (HOPEFULLY):**
 -Laser (cannot be toggled)
